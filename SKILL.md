@@ -1,12 +1,10 @@
 ---
 name: christian-realist-analysis
-description: Analyze political, social, or ethical issues by holding idealism and
-  realism in dialectical tension - avoiding both naive optimism that underestimates
-  human sinfulness and cynical despair that aban...
+description: Analyze political, social, or ethical issues by holding idealism and realism in dialectical tension - avoiding both naive optimism that underestimates human sinfulness and cynical despair that aban...
 license: MIT
 metadata:
-  version: 1.0.0
   author: sethmblack
+  version: 1.0.1
 keywords:
 - christian-realist-analysis
 - storytelling
