@@ -4,7 +4,8 @@ description: Analyze political, social, or ethical issues by holding idealism an
 license: MIT
 metadata:
   author: sethmblack
-  version: 1.0.1
+  version: 1.0.3589
+repository: https://github.com/sethmblack/paks-skills
 keywords:
 - christian-realist-analysis
 - storytelling
